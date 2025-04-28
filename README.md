@@ -1,4 +1,4 @@
-# IMAGE-TRANSFORMATIONS
+## IMAGE-TRANSFORMATIONS
 
 
 ## Aim
@@ -35,8 +35,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program :
 ```python
-Developed By: T Ajay
-Register Number: 212223230007
+Developed By: Rithish P
+Register Number: 212223230173
 
 import cv2
 import numpy as np
